@@ -21,10 +21,3 @@ public class Main {
         return -1;
     }
 }
-
-/*
- * Objetivo: Criar um método que recebe um array de inteiros e um valor a ser
- * buscado. O método deve retornar o índice da primeira ocorrência do valor no
- * array ou -1 se o valor não estiver presente. Testar o método com diferentes
- * valores.
- */
