@@ -39,7 +39,6 @@ public class Main {
         // Exibindo o maior, o menor valor e soma
         System.out.println("\nMaior valor: " + maior);
         System.out.println("Menor valor: " + menor);
-        System.out.println("Soma dos valores: : " + soma);
-
+        System.out.println("Soma dos valores: " + soma);
     }
 }
